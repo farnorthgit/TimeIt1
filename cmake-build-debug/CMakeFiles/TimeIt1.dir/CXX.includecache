@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mcbillingsley/Desktop/c++ files/CS202/TimeIt1/StopWatch.h
+chrono
+-
+
+/Users/mcbillingsley/Desktop/c++ files/CS202/TimeIt1/main.cpp
+iostream
+-
+StopWatch.h
+/Users/mcbillingsley/Desktop/c++ files/CS202/TimeIt1/StopWatch.h
+random
+-
+vector
+-
+algorithm
+-
+
